@@ -1,0 +1,11 @@
+[user]
+	name = Jesica Martin
+	email = jesmrtn11@gmail.com
+[alias]
+    a = add --all
+    b = branch
+    c = commit
+    d = diff
+    l = log --oneline -5
+    p = push
+    s = status
